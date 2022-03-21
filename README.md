@@ -17,7 +17,8 @@
 
 
 - Cursando Redes de Computadores 5º/5º;
-- Estudante de Programação Back-End(Java);
+- Estudante de Programação: Python;
+- Aspirante a Cloud Data Engineer;
 - Apaixonado por tecnologia.
 
 ## Contato
