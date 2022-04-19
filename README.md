@@ -18,8 +18,7 @@
 
 
 - Cursando Redes de Computadores 5º/5º;
-- Estudante de Programação: Python;
-- Aspirante a Cloud Data Engineer;
+- Estudante de Programação;
 - Apaixonado por tecnologia.
 
 ## Contato
