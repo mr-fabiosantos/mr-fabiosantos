@@ -17,8 +17,8 @@
 </div><br/>
 
 
-- Cursando Redes de Computadores 5º/5º;
-- Estudante de Programação;
+- Formado em Redes de Computadores;
+- Microsoft Certified;
 - Apaixonado por tecnologia.
 
 ## Contato
